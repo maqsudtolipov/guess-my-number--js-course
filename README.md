@@ -2,7 +2,7 @@
 
 ![screenshot](https://www.maqsud.me/img/portfolio/guess-my-number.png)
 
-A simple game in javascript 🏐. In this game you should find the hidden number and you wim 🏆. Can you best my highscore - 17?
+A simple game in javascript 🏐. In this game you should find the hidden number and you win 🏆. Can you best my highscore - 17?
 
 ## Built With
 
